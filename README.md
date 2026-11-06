@@ -2,6 +2,14 @@
 
 A Minecraft Java resource pack that replaces the default font with a clean, smooth 32x style while keeping a familiar vanilla appearance. It improves UI text clarity across menus and chat.
 
+## Repository layout
+
+- `pack/` — files extracted from the latest published release, preserving the resource-pack folder structure.
+- `releases/<version>/` — original ZIP downloaded from Modrinth.
+- `docs/RELEASE_PROVENANCE.md` — upstream version, download URL, file size, and checksum records.
+
+The `pack/` directory is the unpacked published release, **not the original editable authoring project**. The ZIP in `releases/` is retained unchanged.
+
 ## Latest Modrinth release
 
 - Version: **1.2** (published 2026-10-10)
