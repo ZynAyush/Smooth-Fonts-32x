@@ -1,31 +1,21 @@
 # Smooth Fonts 32x
 
-A Minecraft Java resource pack that refreshes the default font with a smooth 32x style while keeping a familiar vanilla-inspired appearance.
+A Minecraft Java resource pack that replaces the default font with a clean, smooth 32x style while keeping a familiar vanilla appearance. It improves UI text clarity across menus and chat.
 
-## Features
+## Latest Modrinth release
 
-- Custom smooth 32x font presentation.
-- Improved readability across menus and chat.
-- Designed to retain the overall vanilla feel.
-
-## Compatibility
-
-Check the [Modrinth project page](https://modrinth.com/user/ZynAyush) and its Versions tab for the correct project listing and exact supported Minecraft versions.
-
-## Download
-
-Find the official **Smooth Fonts 32x** project and its releases on [the ZynAyush Modrinth profile](https://modrinth.com/user/ZynAyush).
+- Version: **1.2** (published 2026-10-10)
+- File: `releases/1.2/SmoothFonts32x-v2.zip`
+- Supports Minecraft Java versions listed on [Modrinth](https://modrinth.com/resourcepack/smooth-fonts-32x/versions).
 
 ## Installation
 
-1. Download the release ZIP from the official Modrinth project.
-2. Place it in your Minecraft `resourcepacks` folder.
-3. Enable it under **Options → Resource Packs**.
+Download the ZIP from this repository or [Modrinth](https://modrinth.com/resourcepack/smooth-fonts-32x), then place it in `.minecraft/resourcepacks` and enable it in Minecraft's Resource Packs settings.
 
-## Repository contents
+## Release provenance
 
-This repository currently contains project documentation only. The original editable source files and release ZIPs were not available in the files accessible during repository setup, so no binary release has been represented as source code.
+The ZIP in `releases/` is the official published Modrinth release, downloaded directly from Modrinth and verified against its published SHA-1 and SHA-512 hashes. See [MODRINTH_RELEASES.md](MODRINTH_RELEASES.md). This is a release artifact, not the editable source project.
 
 ## License
 
-Check the official Modrinth project page for the current license and redistribution terms before copying, modifying, or redistributing pack files.
+Modrinth lists this project as **All Rights Reserved (ARR)**. No license to reuse, modify, or redistribute the pack is granted by this repository.
